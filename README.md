@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Minimal Python Project
+
 
 A minimal, dependency-free Python project featuring a command-line interface that reads from and writes to a local `data.json` database.
 
