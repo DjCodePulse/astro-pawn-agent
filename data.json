@@ -1,0 +1,42 @@
+{
+  "business": "Astro Pawn",
+  "location": "Pearland, TX",
+  "rules": {
+    "ffl_transfer_standard": 40,
+    "ffl_transfer_tx_ltc": 30,
+    "customer_service": "Greet everyone at the counter. No 'bad vibes'."
+  },
+  "star_staff": [
+    "Stephanie"
+  ],
+  "inventory": [
+    {
+      "id": 1,
+      "name": "5-String Bass Guitar",
+      "category": "Music",
+      "price": 320,
+      "in_stock": true
+    },
+    {
+      "id": 2,
+      "name": "Fender Rumble 15 Amp",
+      "category": "Music",
+      "price": 85,
+      "in_stock": true
+    },
+    {
+      "id": 3,
+      "name": "DeWalt 20V Circular Saw",
+      "category": "Tools",
+      "price": 70,
+      "in_stock": true
+    },
+    {
+      "id": 4,
+      "name": "4K Smart TV 55 inch",
+      "category": "Electronics",
+      "price": 180,
+      "in_stock": true
+    }
+  ]
+}
